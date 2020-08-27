@@ -1,0 +1,6 @@
+﻿  14.26.c
+D:\CS\C, Cpp\TBCProjectSet\14.26\14.26.c(36,42): warning C4028: formal parameter 1 different from declaration
+D:\CS\C, Cpp\TBCProjectSet\14.26\14.26.c(36,42): warning C4133: 'function': incompatible types - from 'FUNC_TYPE' to 'int (__cdecl *)(int)'
+D:\CS\C, Cpp\TBCProjectSet\14.26\14.26.c(45,11): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+D:\CS\C, Cpp\TBCProjectSet\14.26\14.26.c(45,11): warning C4024: 'pf': different types for formal and actual parameter 1
+  14.26.vcxproj -> D:\CS\C, Cpp\TBCProjectSet\Debug\14.26.exe

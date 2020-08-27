@@ -1,0 +1,14 @@
+﻿  TBC.c
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(26,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 5 has type 'int'
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(26,9): message : consider using '%d' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(26,9): message : consider using '%I32d' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(28,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 5 has type 'int'
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(28,9): message : consider using '%d' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(28,9): message : consider using '%I32d' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(32,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 3 has type 'long'
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(32,9): message : consider using '%ld' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(34,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type '__int64'
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(34,9): message : consider using '%lld' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(34,9): message : consider using '%Id' in the format string
+D:\CS\C, Cpp\TBCProjectSet\TBC\TBC.c(34,9): message : consider using '%I64d' in the format string
+  TBC.vcxproj -> D:\CS\C, Cpp\TBCProjectSet\x64\Debug\TBC.exe
