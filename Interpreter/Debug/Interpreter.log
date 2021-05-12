@@ -1,0 +1,3 @@
+﻿  main.c
+D:\CS\C, Cpp\TBCProjectSet\Interpreter\main.c(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Interpreter.vcxproj -> D:\CS\C, Cpp\TBCProjectSet\Debug\Interpreter.exe

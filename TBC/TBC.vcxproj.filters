@@ -18,5 +18,13 @@
     <ClCompile Include="TBC.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="maze.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="maze.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

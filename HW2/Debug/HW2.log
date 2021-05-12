@@ -1,0 +1,7 @@
+﻿  main.c
+  postFixEvaluate.c
+  stack.c
+D:\CS\C, Cpp\TBCProjectSet\HW2\stack.c(76,17): warning C4550: expression evaluates to a function which is missing an argument list
+D:\CS\C, Cpp\TBCProjectSet\HW2\stack.c(80,21): warning C4550: expression evaluates to a function which is missing an argument list
+  Generating Code...
+  HW2.vcxproj -> D:\CS\C, Cpp\TBCProjectSet\Debug\HW2.exe

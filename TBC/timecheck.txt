@@ -1,0 +1,23 @@
+waiting : 83.204002 s (no pave & no reverse) 
+
+waiting 1s : 81.055000 s (no pave & yes reverse) 
+waiting 2s : 90.040001 s (no pave & yes reverse) 
+waiting 3s : 95.403000 s (no pave & yes reverse) 
+waiting 4s : 103.403000 s (no pave & yes reverse) 
+waiting 5s : 109.132004 s (no pave & yes reverse) 
+waiting 6s : 120.056000 s (no pave & yes reverse) 
+waiting 7s : 122.315002 s (no pave & yes reverse) 
+waiting 8s : 128.084000 s (no pave & yes reverse) 
+waiting 9s : 135.776993 s (no pave & yes reverse) 
+waiting 10s : 141.953995 s (no pave & yes reverse) 
+
+waiting 1s : 80.180000 s
+waiting 2s : 89.057999 s
+waiting 3s : 96.713997 s
+waiting 4s : 101.260002 s
+waiting 5s : 108.863998 s
+waiting 6s : 119.662003 s
+waiting 7s : 121.320000 s
+waiting 8s : 127.712997 s
+waiting 9s : 133.464996 s
+waiting 10s : 139.673004 s
