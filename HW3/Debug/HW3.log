@@ -1,0 +1,5 @@
+﻿  BFS.c
+  HW3.c
+D:\CS\C, Cpp\TBCProjectSet\HW3\HW3.c(69,21): warning C4013: 'BFS' undefined; assuming extern returning int
+  Generating Code...
+  HW3.vcxproj -> D:\CS\C, Cpp\TBCProjectSet\Debug\HW3.exe
